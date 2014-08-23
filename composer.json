@@ -1,5 +1,5 @@
 {
-    "name": "chh/cache-service-provider",
+    "name": "mintaraga/cache-service-provider",
     "description": "Provides easy to use caching for Silex applications, built on top of the doctrine/cache package",
     "license": "MIT",
     "authors": [
